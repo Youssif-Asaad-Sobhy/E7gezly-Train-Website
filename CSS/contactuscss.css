@@ -19,7 +19,7 @@ body {
 	font-size: 12px;
 	line-height:30px;
 	color:#777;
-	background: url("abc.jpg");
+	background: url("../Images/abc.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
